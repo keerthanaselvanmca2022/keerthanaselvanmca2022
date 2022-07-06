@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @keerthanaselvanmca2022
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Python, Javascript, MySQL
+- 🌱 I’m currently learning Python - Django, Javascript, MySQL
 - 💞️ I’m looking to collaborate on best Software development team
 - 📫 How to reach me https://www.linkedin.com/in/keerthana-selvan-1a0592201/
 
