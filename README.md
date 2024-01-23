@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @keerthanaselvanmca2022
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning Java,Python - Django, Javascript, MySQL
+- 👋 Hi, I’m Keerthana Selvan
+- 👀 I’m interested in Web Development - AEM Developer
+- 👩🏻‍💻 Currently I'm working as a Backend Developer(AEM Developer)
+- 🌱 I’m currently learning Java, Javascript, MySQL, AEM - Adobe Experience Manager
 - 💞️ I’m looking to collaborate on best Software development team
 - 📫 How to reach me https://www.linkedin.com/in/keerthana-selvan-1a0592201/
 
